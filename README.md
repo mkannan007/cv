@@ -29,22 +29,23 @@
 ---
 ## *Professional Summary*
 
-- A highly capable technology professional who enjoys synergies of proving concepts, team collaboration, and working around 10 Years of Software Testing experience as a full stack Test Automation Engineer.
+- A highly capable technology professional who enjoys synergies of proving concepts, team collaboration, and working around 10 Years of Software Testing experience as full stack Test Automation Engineer & involved in various testing types (FT, ST, SIT, E2E, UAT, API, DB, Unit, Contract, UX, CBT & Device).
 - Very Good at creative and innovative problem-solving skills, analytical thinking, logical thinking, and code debugging.
-- Key member contribution towards all sprint ceremonies like Daily Standup, Sprint Refinement & Poker, Sprint Planning, Sprint Review & Demo, Sprint Retrospective, and project kick-off (Sprint – zero) meetings.
-- Excellent communications with Scrum Master/Engineering Manager, Product Owner, Business Analyst, Tech Lead, Developers delivering the user stories based on Definition of Ready (DOR) and Definition of Done (DOD).
+- Key member contribution towards all sprint ceremonies like Daily Standup, Sprint Refinement & Poker, Sprint Planning, Sprint Review & Demo, Sprint Retrospective, and project kick-off (Sprint – zero) meetings. 
+- Excellent communications with Scrum Master/Engineering Manager, Product Owner, Business Analyst, Tech Lead, Developers delivering the user stories based on Definition of Ready (DOR) and Definition of Done (DOD). 
 - Active participant in demoing the applications to the Key stakeholders and collecting feedback for improvement.
-- Expertise in building the Test Automation framework from Scratch depends on the Business Applications for testing the functionality via UI & API using Playwright, Cypress, WebDriver IO with JavaScript/TypeScript.
+- Expertise in building the Test Automation framework from Scratch depends on the Business Applications for testing the functionality via UI & API using Playwright, WebDriver-IO, Cypress with JavaScript/TypeScript.
 - Expertise in writing easily maintainable test codes by following the standard coding structure and design pattern like Page Object Modal (UI), reusable helper functions for connecting API, DB, and AWS for easy readability.
-- Expertise in building the CI/CD pipelines for test using GitHub Actions to run Sanity Test for every PR, run Smoke test pack after every successful deployment to test environments & cron-scheduled Regression test run.
-- Ability to run the automated tests via Docker container, if CI/CD platform doesn’t have proper infrastructure build.
+- Expertise in building the CI/CD test pipelines using GitHub Actions to run Sanity Test for every PR, Smoke test after deployment & scheduled cron-job for Regression test also sending the results via slack notifications.
+- Very Good in running the automated tests via Docker container, if CI/CD platform doesn’t have proper infrastructure build.
 - Very Good at reviewing peer member test automation code PR (pull request) and resolving conflicts.
-- Very Good in writing the test using BDD – Cucumber – Gherkin & and RESTful API services using Postman.
-- Very Good in handling JIRA & Confluence tools in documenting the test artifacts and test Process documents.
-- Good in mentoring the testing process and automation testing techniques to Junior team members/co-workers.
+- Very Good in writing the test using BDD – Cucumber – Gherkin and RESTful API services using Postman.
+- Very Good in handling JIRA and Confluence tools in documenting the test artifacts and test Process documents.
 - Good knowledge in including data-testid’s attribute and able to fix minor UI bugs in development source code.
+- Good in mentoring the testing process and automation techniques to Junior team members/Co-workers.
+- Having the positive attitude in working under pressure/deadline and can have the ability to handle small team.
 
----
+
 # *Experience Summary*
 |Organization| Location| Designation/Role| Period Worked|
 |------------|---------|-----------------|--------------|
